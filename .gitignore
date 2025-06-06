@@ -1,0 +1,22 @@
+## Build results
+bin/
+obj/
+out/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+ 
+## Configs 
+appsettings.Development.json
+appsettings.json
+
+## Docker
+*.pid
+Dockerfile.*
+docker-compose.*
