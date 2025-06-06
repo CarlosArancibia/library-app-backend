@@ -17,7 +17,6 @@ Este proyecto es una API REST para la gestión de una biblioteca, desarrollada c
 ### Requisitos
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download)
-- [Docker](https://www.docker.com/) (opcional para contenedor)
 
 ### 1. Restaurar dependencias
 
